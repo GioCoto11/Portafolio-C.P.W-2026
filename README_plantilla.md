@@ -50,20 +50,20 @@ Portafolio-Codificación de Páginas Web/
 
 | Sesión | Tema         | Qué aprendí                            |      Trabajo      |     Captura      |
 | :----: | :----------- | :------------------------------------- | :---------------: | :--------------: |
-|  S01   | Git y GitHub | _(escribir aquí con palabras propias)_ | [ver](unidad-01/) | [ver](recursos/) |
+|  S01   | Git y GitHub | _(escribir aquí con palabras propias)_ | [ver](unidad-01-control-versiones/) | [ver](recursos/)
 
 <details>
 <summary><b>Unidad 2 · Etiquetas y atributos HTML</b> (sesiones 2 a 8)</summary>
 
 | Sesión | Tema                           | Qué aprendí |      Trabajo      |     Captura      |
 | :----: | :----------------------------- | :---------- | :---------------: | :--------------: |
-|  S02   | Git colaborativo, la web y XML |             | [ver](unidad-02/) | [ver](recursos/) |
-|  S03   | Estructura del documento HTML5 |             | [ver](unidad-02/) | [ver](recursos/) |
-|  S04   | Texto, enlaces y anclas        |             | [ver](unidad-02/) | [ver](recursos/) |
-|  S05   | Listas y tablas                |             | [ver](unidad-02/) | [ver](recursos/) |
-|  S06   | Formularios y semántica        |             | [ver](unidad-02/) | [ver](recursos/) |
-|  S07   | Multimedia                     |             | [ver](unidad-02/) | [ver](recursos/) |
-|  S08   | SVG y repaso                   |             | [ver](unidad-02/) | [ver](recursos/) |
+|  S02   | Git colaborativo, la web y XML |             | [ver](unidad-02-html/) | [ver](recursos/) |
+|  S03   | Estructura del documento HTML5 |             | [ver](unidad-02-html/) | [ver](recursos/) |
+|  S04   | Texto, enlaces y anclas        |             | [ver](unidad-02-html/) | [ver](recursos/) |
+|  S05   | Listas y tablas                |             | [ver](unidad-02-html/) | [ver](recursos/) |
+|  S06   | Formularios y semántica        |             | [ver](unidad-02-html/) | [ver](recursos/) |
+|  S07   | Multimedia                     |             | [ver](unidad-02-html/) | [ver](recursos/) |
+|  S08   | SVG y repaso                   |             | [ver](unidad-02-html/) | [ver](recursos/) |
 
 </details>
 
@@ -72,16 +72,16 @@ Portafolio-Codificación de Páginas Web/
 
 | Sesión | Tema                       | Qué aprendí |      Trabajo      |     Captura      |
 | :----: | :------------------------- | :---------- | :---------------: | :--------------: |
-|  S11   | Introducción a CSS         |             | [ver](unidad-03/) | [ver](recursos/) |
-|  S12   | Selectores y pseudo-clases |             | [ver](unidad-03/) | [ver](recursos/) |
-|  S13   | Tipografía y color         |             | [ver](unidad-03/) | [ver](recursos/) |
-|  S14   | Modelo de cajas            |             | [ver](unidad-03/) | [ver](recursos/) |
-|  S15   | Display y posicionamiento  |             | [ver](unidad-03/) | [ver](recursos/) |
-|  S16   | Flexbox                    |             | [ver](unidad-03/) | [ver](recursos/) |
-|  S17   | CSS Grid                   |             | [ver](unidad-03/) | [ver](recursos/) |
-|  S18   | Componentes estilizados    |             | [ver](unidad-03/) | [ver](recursos/) |
-|  S19   | Animaciones y filtros      |             | [ver](unidad-03/) | [ver](recursos/) |
-|  S20   | SCSS y repaso              |             | [ver](unidad-03/) | [ver](recursos/) |
+|  S11   | Introducción a CSS         |             | [ver](unidad-03-css/) | [ver](recursos/) |
+|  S12   | Selectores y pseudo-clases |             | [ver](unidad-03-css/) | [ver](recursos/) |
+|  S13   | Tipografía y color         |             | [ver](unidad-03-css/) | [ver](recursos/) |
+|  S14   | Modelo de cajas            |             | [ver](unidad-03-css/) | [ver](recursos/) |
+|  S15   | Display y posicionamiento  |             | [ver](unidad-03-css/) | [ver](recursos/) |
+|  S16   | Flexbox                    |             | [ver](unidad-03-css/) | [ver](recursos/) |
+|  S17   | CSS Grid                   |             | [ver](unidad-03-css/) | [ver](recursos/) |
+|  S18   | Componentes estilizados    |             | [ver](unidad-03-css/) | [ver](recursos/) |
+|  S19   | Animaciones y filtros      |             | [ver](unidad-03-css/) | [ver](recursos/) |
+|  S20   | SCSS y repaso              |             | [ver](unidad-03-css/) | [ver](recursos/) |
 
 </details>
 
@@ -90,12 +90,12 @@ Portafolio-Codificación de Páginas Web/
 
 | Sesión | Tema                            | Qué aprendí |      Trabajo      |     Captura      |
 | :----: | :------------------------------ | :---------- | :---------------: | :--------------: |
-|  S23   | Viewport y anchos fluidos       |             | [ver](unidad-04/) | [ver](recursos/) |
-|  S24   | Media queries y mobile-first    |             | [ver](unidad-04/) | [ver](recursos/) |
-|  S25   | Menú responsivo e impresión     |             | [ver](unidad-04/) | [ver](recursos/) |
-|  S26   | Imágenes y video adaptativos    |             | [ver](unidad-04/) | [ver](recursos/) |
-|  S27   | Patrones de diseño adaptativo I |             | [ver](unidad-04/) | [ver](recursos/) |
-|  S28   | Patrones II y repaso            |             | [ver](unidad-04/) | [ver](recursos/) |
+|  S23   | Viewport y anchos fluidos       |             | [ver](unidad-04-responsivo/) | [ver](recursos/) |
+|  S24   | Media queries y mobile-first    |             | [ver](unidad-04-responsivo/) | [ver](recursos/) |
+|  S25   | Menú responsivo e impresión     |             | [ver](unidad-04-responsivo/) | [ver](recursos/) |
+|  S26   | Imágenes y video adaptativos    |             | [ver](unidad-04-responsivo/) | [ver](recursos/) |
+|  S27   | Patrones de diseño adaptativo I |             | [ver](unidad-04-responsivo/) | [ver](recursos/) |
+|  S28   | Patrones II y repaso            |             | [ver](unidad-04-responsivo/) | [ver](recursos/) |
 
 </details>
 
@@ -104,12 +104,12 @@ Portafolio-Codificación de Páginas Web/
 
 | Sesión | Tema                          | Qué aprendí |      Trabajo      |     Captura      |
 | :----: | :---------------------------- | :---------- | :---------------: | :--------------: |
-|  S31   | Librerías y frameworks        |             | [ver](unidad-05/) | [ver](recursos/) |
-|  S32   | Sistema de rejilla I          |             | [ver](unidad-05/) | [ver](recursos/) |
-|  S33   | Sistema de rejilla II         |             | [ver](unidad-05/) | [ver](recursos/) |
-|  S34   | Tipografía y utilidades       |             | [ver](unidad-05/) | [ver](recursos/) |
-|  S35   | Formularios y navegación      |             | [ver](unidad-05/) | [ver](recursos/) |
-|  S36   | Componentes y personalización |             | [ver](unidad-05/) | [ver](recursos/) |
+|  S31   | Librerías y frameworks        |             | [ver](unidad-05-framework/) | [ver](recursos/) |
+|  S32   | Sistema de rejilla I          |             | [ver](unidad-05-framework/) | [ver](recursos/) |
+|  S33   | Sistema de rejilla II         |             | [ver](unidad-05-framework/) | [ver](recursos/) |
+|  S34   | Tipografía y utilidades       |             | [ver](unidad-05-framework/) | [ver](recursos/) |
+|  S35   | Formularios y navegación      |             | [ver](unidad-05-framework/) | [ver](recursos/) |
+|  S36   | Componentes y personalización |             | [ver](unidad-05-framework/) | [ver](recursos/) |
 
 </details>
 
@@ -170,8 +170,8 @@ _(Escribir al cerrar el módulo. Tres preguntas para orientarla:)_
 
 <div align="center">
 
-**Nombre Completo** · correo@ejemplo.com
+**Giovanni Antonio Coto Calderón** · giocoto11@gmail.com
 
-Portafolio elaborado durante el módulo CSTI12002 · Instituto Nacional de Aprendizaje · 2026
+Portafolio elaborado durante el módulo Codificación de Páginas Web · Instituto Nacional de Aprendizaje · 2026
 
 </div>
