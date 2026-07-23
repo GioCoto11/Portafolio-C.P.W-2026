@@ -68,68 +68,68 @@ Portafolio-C.P.W-2026/
 
 ### Unidad 1 · Implementación de control de versiones
 
-| Sesión | Tema | Qué aprendí | Trabajo | Captura |
-|:------:|:-----|:------------|:-------:|:-------:|
-| S01 | Git y GitHub | *(escribir aquí con palabras propias)* | [ver](unidad-01-control-versiones/) | [ver](recursos/) |
+| Sesión | Tema         | Qué aprendí                            |               Trabajo               |     Captura      |
+| :----: | :----------- | :------------------------------------- | :---------------------------------: | :--------------: |
+|  S01   | Git y GitHub | _(escribir aquí con palabras propias)_ | [ver](unidad-01-control-versiones/) | [ver](recursos/) |
 
 <details>
 <summary><b>Unidad 2 · Etiquetas y atributos HTML</b> (sesiones 2 a 8)</summary>
 
-| Sesión | Tema | Qué aprendí | Trabajo | Captura |
-|:------:|:-----|:------------|:-------:|:-------:|
-| S02 | Git colaborativo, la web y XML | | [ver](unidad-02-html/) | [ver](recursos/) |
-| S03 | Estructura del documento HTML5 | | [ver](unidad-02-html/) | [ver](recursos/) |
-| S04 | Texto, enlaces y anclas | | [ver](unidad-02-html/) | [ver](recursos/) |
-| S05 | Listas y tablas | | [ver](unidad-02-html/) | [ver](recursos/) |
-| S06 | Formularios y semántica | | [ver](unidad-02-html/) | [ver](recursos/) |
-| S07 | Multimedia | | [ver](unidad-02-html/) | [ver](recursos/) |
-| S08 | SVG y repaso | | [ver](unidad-02-html/) | [ver](recursos/) |
+| Sesión | Tema                           | Qué aprendí |                   Trabajo                   |             Captura             |
+| :----: | :----------------------------- | :---------- | :-----------------------------------------: | :-----------------------------: |
+|  S02   | Git colaborativo, la web y XML |             |           [ver](unidad-02-html/)            |        [ver](recursos/)         |
+|  S03   | Estructura del documento HTML5 |             |           [ver](unidad-02-html/)            |        [ver](recursos/)         |
+|  S04   | Texto, enlaces y anclas        |             | [ver](unidad-02-html/sitio-demo/index.html) | [ver](recursos/img-recorte.png) |
+|  S05   | Listas y tablas                |             |           [ver](unidad-02-html/)            |        [ver](recursos/)         |
+|  S06   | Formularios y semántica        |             |           [ver](unidad-02-html/)            |        [ver](recursos/)         |
+|  S07   | Multimedia                     |             |           [ver](unidad-02-html/)            |        [ver](recursos/)         |
+|  S08   | SVG y repaso                   |             |           [ver](unidad-02-html/)            |        [ver](recursos/)         |
 
-</details>
+</details>Sobre main vs master: se recomienda renombrar a main
 
 <details>
 <summary><b>Unidad 3 · Codificación de hojas de estilo</b> (sesiones 11 a 20)</summary>
 
-| Sesión | Tema | Qué aprendí | Trabajo | Captura |
-|:------:|:-----|:------------|:-------:|:-------:|
-| S11 | Introducción a CSS | | [ver](unidad-03-css/) | [ver](recursos/) |
-| S12 | Selectores y pseudo-clases | | [ver](unidad-03-css/) | [ver](recursos/) |
-| S13 | Tipografía y color | | [ver](unidad-03-css/) | [ver](recursos/) |
-| S14 | Modelo de cajas | | [ver](unidad-03-css/) | [ver](recursos/) |
-| S15 | Display y posicionamiento | | [ver](unidad-03-css/) | [ver](recursos/) |
-| S16 | Flexbox | | [ver](unidad-03-css/) | [ver](recursos/) |
-| S17 | CSS Grid | | [ver](unidad-03-css/) | [ver](recursos/) |
-| S18 | Componentes estilizados | | [ver](unidad-03-css/) | [ver](recursos/) |
-| S19 | Animaciones y filtros | | [ver](unidad-03-css/) | [ver](recursos/) |
-| S20 | SCSS y repaso | | [ver](unidad-03-css/) | [ver](recursos/) |
+| Sesión | Tema                       | Qué aprendí |        Trabajo        |     Captura      |
+| :----: | :------------------------- | :---------- | :-------------------: | :--------------: |
+|  S11   | Introducción a CSS         |             | [ver](unidad-03-css/) | [ver](recursos/) |
+|  S12   | Selectores y pseudo-clases |             | [ver](unidad-03-css/) | [ver](recursos/) |
+|  S13   | Tipografía y color         |             | [ver](unidad-03-css/) | [ver](recursos/) |
+|  S14   | Modelo de cajas            |             | [ver](unidad-03-css/) | [ver](recursos/) |
+|  S15   | Display y posicionamiento  |             | [ver](unidad-03-css/) | [ver](recursos/) |
+|  S16   | Flexbox                    |             | [ver](unidad-03-css/) | [ver](recursos/) |
+|  S17   | CSS Grid                   |             | [ver](unidad-03-css/) | [ver](recursos/) |
+|  S18   | Componentes estilizados    |             | [ver](unidad-03-css/) | [ver](recursos/) |
+|  S19   | Animaciones y filtros      |             | [ver](unidad-03-css/) | [ver](recursos/) |
+|  S20   | SCSS y repaso              |             | [ver](unidad-03-css/) | [ver](recursos/) |
 
 </details>
 
 <details>
 <summary><b>Unidad 4 · Páginas web responsivas</b> (sesiones 23 a 28)</summary>
 
-| Sesión | Tema | Qué aprendí | Trabajo | Captura |
-|:------:|:-----|:------------|:-------:|:-------:|
-| S23 | Viewport y anchos fluidos | | [ver](unidad-04-responsivo/) | [ver](recursos/) |
-| S24 | Media queries y mobile-first | | [ver](unidad-04-responsivo/) | [ver](recursos/) |
-| S25 | Menú responsivo e impresión | | [ver](unidad-04-responsivo/) | [ver](recursos/) |
-| S26 | Imágenes y video adaptativos | | [ver](unidad-04-responsivo/) | [ver](recursos/) |
-| S27 | Patrones de diseño adaptativo I | | [ver](unidad-04-responsivo/) | [ver](recursos/) |
-| S28 | Patrones II y repaso | | [ver](unidad-04-responsivo/) | [ver](recursos/) |
+| Sesión | Tema                            | Qué aprendí |           Trabajo            |     Captura      |
+| :----: | :------------------------------ | :---------- | :--------------------------: | :--------------: |
+|  S23   | Viewport y anchos fluidos       |             | [ver](unidad-04-responsivo/) | [ver](recursos/) |
+|  S24   | Media queries y mobile-first    |             | [ver](unidad-04-responsivo/) | [ver](recursos/) |
+|  S25   | Menú responsivo e impresión     |             | [ver](unidad-04-responsivo/) | [ver](recursos/) |
+|  S26   | Imágenes y video adaptativos    |             | [ver](unidad-04-responsivo/) | [ver](recursos/) |
+|  S27   | Patrones de diseño adaptativo I |             | [ver](unidad-04-responsivo/) | [ver](recursos/) |
+|  S28   | Patrones II y repaso            |             | [ver](unidad-04-responsivo/) | [ver](recursos/) |
 
 </details>
 
 <details>
 <summary><b>Unidad 5 · Frameworks y librerías</b> (sesiones 31 a 36)</summary>
 
-| Sesión | Tema | Qué aprendí | Trabajo | Captura |
-|:------:|:-----|:------------|:-------:|:-------:|
-| S31 | Librerías y frameworks | | [ver](unidad-05-framework/) | [ver](recursos/) |
-| S32 | Sistema de rejilla I | | [ver](unidad-05-framework/) | [ver](recursos/) |
-| S33 | Sistema de rejilla II | | [ver](unidad-05-framework/) | [ver](recursos/) |
-| S34 | Tipografía y utilidades | | [ver](unidad-05-framework/) | [ver](recursos/) |
-| S35 | Formularios y navegación | | [ver](unidad-05-framework/) | [ver](recursos/) |
-| S36 | Componentes y personalización | | [ver](unidad-05-framework/) | [ver](recursos/) |
+| Sesión | Tema                          | Qué aprendí |           Trabajo           |     Captura      |
+| :----: | :---------------------------- | :---------- | :-------------------------: | :--------------: |
+|  S31   | Librerías y frameworks        |             | [ver](unidad-05-framework/) | [ver](recursos/) |
+|  S32   | Sistema de rejilla I          |             | [ver](unidad-05-framework/) | [ver](recursos/) |
+|  S33   | Sistema de rejilla II         |             | [ver](unidad-05-framework/) | [ver](recursos/) |
+|  S34   | Tipografía y utilidades       |             | [ver](unidad-05-framework/) | [ver](recursos/) |
+|  S35   | Formularios y navegación      |             | [ver](unidad-05-framework/) | [ver](recursos/) |
+|  S36   | Componentes y personalización |             | [ver](unidad-05-framework/) | [ver](recursos/) |
 
 </details>
 
@@ -154,8 +154,8 @@ Portafolio-C.P.W-2026/
 
 ## 🖼 Galería de capturas
 
-*(Sustituir por las capturas propias. Se recomienda incluir de tres a seis
-imágenes representativas de todo el módulo.)*
+_(Sustituir por las capturas propias. Se recomienda incluir de tres a seis
+imágenes representativas de todo el módulo.)_
 
 <p align="center">
   <img src="recursos/ejemplo-escritorio.png" width="600" alt="Sitio personal en vista de escritorio">
@@ -165,27 +165,27 @@ imágenes representativas de todo el módulo.)*
 
 ### El mismo sitio en dos anchos
 
-| Móvil (375 px) | Escritorio (1280 px) |
-|:--------------:|:--------------------:|
+|                             Móvil (375 px)                              |                               Escritorio (1280 px)                                |
+| :---------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
 | <img src="recursos/ejemplo-movil.png" width="220" alt="Vista de móvil"> | <img src="recursos/ejemplo-escritorio.png" width="420" alt="Vista de escritorio"> |
 
 ---
 
 ## 🎨 Decisiones técnicas documentadas
 
-*(Completar conforme avanza el módulo. Se llena en las sesiones donde se elige algo.)*
+_(Completar conforme avanza el módulo. Se llena en las sesiones donde se elige algo.)_
 
-| Decisión | Qué elegí | Por qué |
-|:---------|:----------|:--------|
-| Puntos de quiebre (S24) | | |
-| Patrones de diseño adaptativo (S27 y S28) | | |
-| Método de enlace del framework (S31) | | |
+| Decisión                                  | Qué elegí | Por qué |
+| :---------------------------------------- | :-------- | :------ |
+| Puntos de quiebre (S24)                   |           |         |
+| Patrones de diseño adaptativo (S27 y S28) |           |         |
+| Método de enlace del framework (S31)      |           |         |
 
 ---
 
 ## 💭 Reflexión final
 
-*(Escribir al cerrar el módulo, en la sesión 36. Tres preguntas para orientarla:)*
+_(Escribir al cerrar el módulo, en la sesión 36. Tres preguntas para orientarla:)_
 
 1. ¿Qué sé hacer hoy que no sabía el primer día?
 2. Comparando mi sitio hecho a mano con el que construí con framework:
