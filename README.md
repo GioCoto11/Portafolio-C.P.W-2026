@@ -79,7 +79,7 @@ Portafolio-C.P.W-2026/
 | :----: | :----------------------------- | :------------------------------------------------------------ | :---------------------------------: | :------------------------------------------: |
 |  S02   | Git colaborativo, la web y XML |                                                               |       [ver](unidad-02-html/)        |               [ver](recursos/)               |
 |  S03   | Estructura del documento HTML5 |                                                               |       [ver](unidad-02-html/)        |               [ver](recursos/)               |
-|  S04   | Texto, enlaces y anclas        | Aprendí sobre texto semántico, tipos de enlaces, anclas y W3C | [ver](unidad-02-html/articulo.html) | [ver](recursos/S.4.Enlaces-tipo-anclas1.png) |
+|  S04   | Texto, enlaces y anclas        | Aprendí sobre texto semántico, tipos de enlaces, anclas y W3C | [ver](unidad-02-html/sitio-demo/articulo.html) | [ver](recursos/S.4.Enlaces-tipo-anclas1.png) |
 |  S05   | Listas y tablas                |                                                               |       [ver](unidad-02-html/)        |               [ver](recursos/)               |
 |  S06   | Formularios y semántica        |                                                               |       [ver](unidad-02-html/)        |               [ver](recursos/)               |
 |  S07   | Multimedia                     |                                                               |       [ver](unidad-02-html/)        |               [ver](recursos/)               |
