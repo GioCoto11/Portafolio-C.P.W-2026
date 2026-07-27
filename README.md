@@ -16,7 +16,7 @@
   ─────────────────────────────────────────────────────────────────────
 -->
 
-<div align="center">
+<div align="center" markdown="1">
 
 # 📘 Portafolio de Evidencias
 
@@ -72,22 +72,22 @@ Portafolio-C.P.W-2026/
 | :----: | :----------- | :------------------------------------- | :---------------------------------: | :--------------: |
 |  S01   | Git y GitHub | _(escribir aquí con palabras propias)_ | [ver](unidad-01-control-versiones/) | [ver](recursos/) |
 
-<details>
+<details markdown="1">
 <summary><b>Unidad 2 · Etiquetas y atributos HTML</b> (sesiones 2 a 8)</summary>
 
-| Sesión | Tema                           | Qué aprendí                                                   |               Trabajo               |                   Captura                    |
-| :----: | :----------------------------- | :------------------------------------------------------------ | :---------------------------------: | :------------------------------------------: |
-|  S02   | Git colaborativo, la web y XML |                                                               |       [ver](unidad-02-html/)        |               [ver](recursos/)               |
-|  S03   | Estructura del documento HTML5 |                                                               |       [ver](unidad-02-html/)        |               [ver](recursos/)               |
+| Sesión | Tema                           | Qué aprendí                                                   |                    Trabajo                     |                   Captura                    |
+| :----: | :----------------------------- | :------------------------------------------------------------ | :--------------------------------------------: | :------------------------------------------: |
+|  S02   | Git colaborativo, la web y XML |                                                               |             [ver](unidad-02-html/)             |               [ver](recursos/)               |
+|  S03   | Estructura del documento HTML5 |                                                               |             [ver](unidad-02-html/)             |               [ver](recursos/)               |
 |  S04   | Texto, enlaces y anclas        | Aprendí sobre texto semántico, tipos de enlaces, anclas y W3C | [ver](unidad-02-html/sitio-demo/articulo.html) | [ver](recursos/S.4.Enlaces-tipo-anclas1.png) |
-|  S05   | Listas y tablas                |                                                               |       [ver](unidad-02-html/)        |               [ver](recursos/)               |
-|  S06   | Formularios y semántica        |                                                               |       [ver](unidad-02-html/)        |               [ver](recursos/)               |
-|  S07   | Multimedia                     |                                                               |       [ver](unidad-02-html/)        |               [ver](recursos/)               |
-|  S08   | SVG y repaso                   |                                                               |       [ver](unidad-02-html/)        |               [ver](recursos/)               |
+|  S05   | Listas y tablas                |                                                               |             [ver](unidad-02-html/)             |               [ver](recursos/)               |
+|  S06   | Formularios y semántica        |                                                               |             [ver](unidad-02-html/)             |               [ver](recursos/)               |
+|  S07   | Multimedia                     |                                                               |             [ver](unidad-02-html/)             |               [ver](recursos/)               |
+|  S08   | SVG y repaso                   |                                                               |             [ver](unidad-02-html/)             |               [ver](recursos/)               |
 
 </details>Sobre main vs master: se recomienda renombrar a main
 
-<details>
+<details markdown="1">
 <summary><b>Unidad 3 · Codificación de hojas de estilo</b> (sesiones 11 a 20)</summary>
 
 | Sesión | Tema                       | Qué aprendí |        Trabajo        |     Captura      |
@@ -105,7 +105,7 @@ Portafolio-C.P.W-2026/
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>Unidad 4 · Páginas web responsivas</b> (sesiones 23 a 28)</summary>
 
 | Sesión | Tema                            | Qué aprendí |           Trabajo            |     Captura      |
@@ -119,7 +119,7 @@ Portafolio-C.P.W-2026/
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>Unidad 5 · Frameworks y librerías</b> (sesiones 31 a 36)</summary>
 
 | Sesión | Tema                          | Qué aprendí |           Trabajo           |     Captura      |
@@ -161,7 +161,7 @@ imágenes representativas de todo el módulo.)_
   <img src="recursos/ejemplo-escritorio.png" width="600" alt="Sitio personal en vista de escritorio">
 </p>
 
-<div align="center"><i>El sitio personal al cierre de la Unidad 3.</i></div>
+<div align="center" markdown="1"><i>El sitio personal al cierre de la Unidad 3.</i></div>
 
 ### El mismo sitio en dos anchos
 
@@ -205,7 +205,7 @@ _(Escribir al cerrar el módulo, en la sesión 36. Tres preguntas para orientarl
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 **Nombre Completo** · correo@ejemplo.com
 
