@@ -75,15 +75,15 @@ Portafolio-C.P.W-2026/
 <details markdown="1">
 <summary><b>Unidad 2 · Etiquetas y atributos HTML</b> (sesiones 2 a 8)</summary>
 
-| Sesión | Tema                           | Qué aprendí                                                   |                    Trabajo                     |                   Captura                    |
-| :----: | :----------------------------- | :------------------------------------------------------------ | :--------------------------------------------: | :------------------------------------------: |
-|  S02   | Git colaborativo, la web y XML |                                                               |             [ver](unidad-02-html/)             |               [ver](recursos/)               |
-|  S03   | Estructura del documento HTML5 |                                                               |             [ver](unidad-02-html/)             |               [ver](recursos/)               |
-|  S04   | Texto, enlaces y anclas        | Aprendí sobre texto semántico, tipos de enlaces, anclas y W3C | [ver](unidad-02-html/sitio-demo/articulo.html) | [ver](recursos/S.4.Enlaces-tipo-anclas1.png) |
-|  S05   | Listas y tablas                |                                                               |             [ver](unidad-02-html/)             |               [ver](recursos/)               |
-|  S06   | Formularios y semántica        |                                                               |             [ver](unidad-02-html/)             |               [ver](recursos/)               |
-|  S07   | Multimedia                     |                                                               |             [ver](unidad-02-html/)             |               [ver](recursos/)               |
-|  S08   | SVG y repaso                   |                                                               |             [ver](unidad-02-html/)             |               [ver](recursos/)               |
+| Sesión | Tema                           | Qué aprendí                                                                                             |                    Trabajo                     |                             Captura                              |
+| :----: | :----------------------------- | :------------------------------------------------------------------------------------------------------ | :--------------------------------------------: | :--------------------------------------------------------------: |
+|  S02   | Git colaborativo, la web y XML |                                                                                                         |             [ver](unidad-02-html/)             |                         [ver](recursos/)                         |
+|  S03   | Estructura del documento HTML5 |                                                                                                         |             [ver](unidad-02-html/)             |                         [ver](recursos/)                         |
+|  S04   | Texto, enlaces y anclas        | Aprendí sobre texto semántico, tipos de enlaces, anclas y W3C                                           | [ver](unidad-02-html/sitio-demo/articulo.html) |           [ver](recursos/S.4.Enlaces-tipo-anclas1.png)           |
+|  S05   | Listas y tablas                | Aprendí a trabajar los 3 tipos de lista con sus tipos y estilos. También la parte de tablas semánticas. | [ver](unidad-02-html/sitio-demo/horarios.html) | [ver](unidad-02-html/sitio-demo/recursos/S.05-Listas-Tablas.png) |
+|  S06   | Formularios y semántica        |                                                                                                         |             [ver](unidad-02-html/)             |                         [ver](recursos/)                         |
+|  S07   | Multimedia                     |                                                                                                         |             [ver](unidad-02-html/)             |                         [ver](recursos/)                         |
+|  S08   | SVG y repaso                   |                                                                                                         |             [ver](unidad-02-html/)             |                         [ver](recursos/)                         |
 
 </details>Sobre main vs master: se recomienda renombrar a main
 
