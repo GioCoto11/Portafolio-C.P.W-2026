@@ -15,7 +15,7 @@
     <h2>Materiales del curso con lista desordenada</h2>
 
     <ul type="square">
-        <!--Type de los ul: square, circle, disc-->
+      <!--Type de los ul: square, circle, disc-->
       <li>Visual Studio Code</li>
       <li>Cuenta de GitHub</li>
       <li>Cuaderno de bitácora</li>
@@ -50,34 +50,70 @@
     <!--<ol reversed, type="A", type="1", type="I", type="a">-->
 
     <!--Lista de Descriptivas: pares de término y descripción -->
-    <h2>Glosario Git: Con lista  descriptiva</h2>
+    <h2>Glosario Git: Con lista descriptiva</h2>
     <!--Emmet: dl>(dt+dd)*3-->
     <dl>
-        <dt>Commit</dt>
-        <dd>Instantánea permanente del proyecto en un momento dado</dd>
-        <dt>Rama</dt>
-        <dd>Línea de trabajo paralela que no afecta a main</dd>
-        <dt>Pull</dt>
-        <dd>Solicitud de revisión para incorporar una rama</dd>
+      <dt>Commit</dt>
+      <dd>Instantánea permanente del proyecto en un momento dado</dd>
+      <dt>Rama</dt>
+      <dd>Línea de trabajo paralela que no afecta a main</dd>
+      <dt>Pull</dt>
+      <dd>Solicitud de revisión para incorporar una rama</dd>
     </dl>
-    <hr><br>
+    <hr />
+    <br />
     <!--Listas anidada. usada en menús y submenus-->
     <h2>Temario de la unidad: con lista anidada</h2>
     <!--Emmet: ul>li>ul>li*2*3-->
     <ul>
-        <li>Estructura de un documento
-            <ul>
-                <li>DOCTYPE Y HTML</li>
-                <li>head y metadatos</li>
-            </ul>
-        </li>
+      <li>
+        Estructura de un documento
+        <ul>
+          <li>DOCTYPE Y HTML</li>
+          <li>head y metadatos</li>
+        </ul>
+      </li>
 
-        <li>Contenido
-            <ul>
-                <li>Texto y enlaces</li>
-                <li>Listas t tablas</li>
-            </ul>
-        </li>
+      <li>
+        Contenido
+        <ul>
+          <li>Texto y enlaces</li>
+          <li>Listas t tablas</li>
+        </ul>
+      </li>
     </ul>
+    <br /><br />
+    <hr />
+    <!--ESQUELETO DE LA TABLA -->
+    <h2>Horario semanal</h2>
+    <table border="2">
+      <caption>
+        Horario de clases del programa
+      </caption>
+      <thead>
+        <tr>
+          <th scope="col">Día</th>
+          <th scope="col">Modalidad</th>
+          <th scope="col">Horario</th>
+          <th scope="col">Contenidos</th>
+        </tr>
+      </thead>
+      <!--tbody: cuerpo de la tabla-->
+      <tbody>
+        <tr>
+          <td>Lunes</td>
+          <td>Presencial</td>
+          <td>1:30pm a 5:30pm</td>
+          <td>Listas y tablas</td>
+        </tr>
+      </tbody>
+      <!-- El pie de la tabla -->
+      <tfoot>
+        <tr>
+          <td colspan="4">Total semanal 20 horas</td>
+        </tr>
+      </tfoot>
+    </table>
+    <!--table>caption+thead>tr>th*4^^tbody>tr*5>td*4-->
   </body>
 </html>
