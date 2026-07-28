@@ -17,6 +17,20 @@
     <link rel="icon" type="image/png" href="recursos/favicon.png" />
   </head>
   <body>
+    <header>
+      <!--Header: Cabecera de la página y generalmente se repite en todo el sitio-->
+      <h1>Codificación de Páginas Web</h1>
+      <p>Sitio de demostración del módulo</p>
+
+      <nav>
+        <ul>
+          <li><a href="index.html">Inicio</a></li>
+          <li><a href="articulo.html">Artículos</a></li>
+          <li><a href="horarios.html">Horario</a></li>
+          <li><a href="registro.html">Registro</a></li>
+        </ul>
+      </nav>
+    </header>
     <h1 id="titulo"><em>La Historia de la Web</em></h1>
     <p>Un recorrido por el invento que cambió la forma de comunicarnos</p>
 
@@ -25,61 +39,82 @@
     <a href="#origenes">Ir a Los orígenes</a><br /><br />
     <a href="#web-hoy">Ir a La web hoy</a><br /><br />
     <a href="#referencias">Ir a referencias</a>
+    <section>
+      <h2 id="origenes"><strong>Los orígenes</strong></h2>
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur
+        veniam, error architecto voluptate, illo suscipit sed velit, incidunt
+        optio asperiores similique. Adipisci suscipit laborum numquam reiciendis
+        voluptate necessitatibus sunt aperiam.
+      </p>
+      <h3 id="primero">El primer navegador</h3>
+      <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum, esse
+        totam blanditiis aut, alias veritatis neque similique ullam temporibus
+        excepturi dicta error in, assumenda quos odio laborum molestias optio
+        unde!
+      </p>
+    </section>
+    <section>
+      <h2 id="web-hoy">La web hoy</h2>
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro modi
+        ducimus est unde recusandae consequatur dolorem odit deleniti. Placeat,
+        corporis quo asperiores suscipit consequuntur, temporibus mollitia
+        voluptatum aliquam vero esse quisquam reprehenderit sunt quis
+        praesentium?
+      </p>
 
-    <h2 id="origenes"><strong>Los orígenes</strong></h2>
-    <p>
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur
-      veniam, error architecto voluptate, illo suscipit sed velit, incidunt
-      optio asperiores similique. Adipisci suscipit laborum numquam reiciendis
-      voluptate necessitatibus sunt aperiam.
-    </p>
-    <h3 id="primero">El primer navegador</h3>
-    <p>
-      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum, esse
-      totam blanditiis aut, alias veritatis neque similique ullam temporibus
-      excepturi dicta error in, assumenda quos odio laborum molestias optio
-      unde!
-    </p>
-    <h2 id="web-hoy">La web hoy</h2>
-    <p>
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro modi
-      ducimus est unde recusandae consequatur dolorem odit deleniti. Placeat,
-      corporis quo asperiores suscipit consequuntur, temporibus mollitia
-      voluptatum aliquam vero esse quisquam reprehenderit sunt quis praesentium?
-    </p>
+      <blockquote cite="https://www.w3.org/People/Berners-Lee/">
+        <p>La web es más una creación social que técnica</p>
+      </blockquote>
 
-    <blockquote cite="https://www.w3.org/People/Berners-Lee/">
-      <p>La web es más una creación social que técnica</p>
-    </blockquote>
+      <p>
+        Tim Berners-Lee lo desarrolla en <cite>Tejiendo de la red</cite>, donde
+        afirma <q>diseñé la web para un efecto social</q>. Hoy la
+        <abbr title="Wordl Wide Web Consortium">W3C</abbr> custodia sus
+        estándares.
+      </p>
+    </section>
+    <article>
+      <h2 id="referencias">Referencias</h2>
+      <p>
+        <a
+          href="https://developer.mozilla.org/es/"
+          target="_blank"
+          rel="noopener"
+          title="Documentación de referencia"
+          >Documentación en MDN</a
+        >
+      </p>
+    </article>
 
-    <p>
-      Tim Berners-Lee lo desarrolla en <cite>Tejiendo de la red</cite>, donde
-      afirma <q>diseñé la web para un efecto social</q>. Hoy la
-      <abbr title="Wordl Wide Web Consortium">W3C</abbr> custodia sus
-      estándares.
-    </p>
-
-    <h2 id="referencias">Referencias</h2>
-    <p>
-      <a
-        href="https://developer.mozilla.org/es/"
-        target="_blank"
-        rel="noopener"
-        title="Documentación de referencia"
-        >Documentación en MDN</a
-      >
-    </p>
-    <p><a href="mailto:docente@ina.ac.cr">Escribir a la persona docente</a></p>
-    <p><a href="recursos/favicon.png" download>Descargar el imagen (PNG)</a></p>
-    <p>
-      <a href="recursos/Conceptos_S04_Texto_Enlaces_Anclass.pdf" download
-        >Descargar archivo con concepto de clase 4 (PDF)</a
-      >
-    </p>
+    <aside>
+      <h3>Recursos</h3>
+      <p>
+        <a href="mailto:docente@ina.ac.cr">Escribir a la persona docente</a>
+      </p>
+      <p>
+        <a href="recursos/favicon.png" download>Descargar el imagen (PNG)</a>
+      </p>
+      <p>
+        <a href="recursos/Conceptos_S04_Texto_Enlaces_Anclass.pdf" download
+          >Descargar archivo con concepto de clase 4 (PDF)</a
+        >
+      </p>
+    </aside>
 
     <a href="index.html">Volver a página Inicio</a><br />
 
     <!--Enlace tipo anclas-->
     <a href="#titulo">Volver arriba</a>
+
+    <footer>
+      <!--Footer: Pie, créditos, contacto, derechos-->
+      <p>
+        © 2026 INA. Programa Desarrollo de Páginas Web. Todos los derechos
+        reservados
+      </p>
+    </footer>
   </body>
 </html>
