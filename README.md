@@ -82,7 +82,7 @@ Portafolio-C.P.W-2026/
 |  S04   | Texto, enlaces y anclas        | Aprendí sobre texto semántico, tipos de enlaces, anclas y W3C                     | [ver](unidad-02-html/sitio-demo/articulo.html) |           [ver](recursos/S.4.Enlaces-tipo-anclas1.png)           |
 |  S05   | Listas y tablas                | aprendí listas y tablas completas                                                 | [ver](unidad-02-html/sitio-demo/horarios.html) | [ver](unidad-02-html/sitio-demo/recursos/S.05-Listas-Tablas.png) |
 |  S06   | Formularios y semántica        | Trabajamos con etiquetas semánticas, formlarios y validación local de formalarios | [ver](unidad-02-html/sitio-demo/registro.html) |          [ver](recursos/S.06-Formularios-Semántica.png)          |
-|  S07   | Multimedia                     |                                                                                   |             [ver](unidad-02-html/)             |                         [ver](recursos/)                         |
+|  S07   | Multimedia                     |  Etiquetas, controles de audio y video, formatos y  portadas y subtítulños |    [ver](unidad-02-html/sitio-demo/galeria.html)|                         [ver](recursos/S.07-Multimedia.png)                         |
 |  S08   | SVG y repaso                   |                                                                                   |             [ver](unidad-02-html/)             |                         [ver](recursos/)                         |
 
 </details>Sobre main vs master: se recomienda renombrar a main
