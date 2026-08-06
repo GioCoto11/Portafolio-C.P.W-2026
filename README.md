@@ -142,7 +142,7 @@ Proyecto propio construido de forma autónoma.
 
 | Sesión | Tema                       | Qué aprendí |        Trabajo        |     Captura      |
 | :----: | :------------------------- | :---------- | :-------------------: | :--------------: |
-|  S11   | Introducción a CSS         |             | [ver](unidad-03-css/) | [ver](recursos/) |
+|  S11   | Introducción a CSS         | introduucción a CSS, sintaxis, formas de aplicar estilos y validación de CSS            | [ver](./unidad-03-css/sitio-demo/index.html) | [ver](recursos/S11.intro-css-sintaxis.png) |
 |  S12   | Selectores y pseudo-clases |             | [ver](unidad-03-css/) | [ver](recursos/) |
 |  S13   | Tipografía y color         |             | [ver](unidad-03-css/) | [ver](recursos/) |
 |  S14   | Modelo de cajas            |             | [ver](unidad-03-css/) | [ver](recursos/) |
