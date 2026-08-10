@@ -89,7 +89,10 @@ header nav a {
 
 /*Aplicar estilos a identificadores o IDs*/
 #inicio {
-    background-color: #1f4e79;
+    background-image: url(../recursos/fondo1.avif);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     padding: 30px;
 }
 
