@@ -42,7 +42,24 @@ main p {
     max-width: 70ch;
 }/*ch es el ancho del carater cero de la fuenete en uso. el valor 70 marca el rango
 de lectura cómoda por línea o renglón. más larga, la vista se pierde al cambia de línea*/
+main a {
+    text-decoration: none;
+    border-bottom: 1px solid #1f4e79;
+}
 
+blockquote p {
+    font-style: italic;
+    color: #555;
+}
+
+/* Transformacion y espacio*/
+
+header nav a {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 0.9rem;
+    text-decoration: none;
+}
 /*Aplicar estilos a clases*/
 .destacado {
     background-color: #fff3cd;
