@@ -13,7 +13,7 @@ html{
 body {
     font-size: 1rem;
     line-height: 1.6;
-    font-family: Arial, sans-serif;
+    font-family: 'Poppins', Arial, sans-serif; /*Agregar familia de fuentes 'Poppins' traida de google fonts*/
     color: #333;
     background-color: #fcfcfc;
 
@@ -127,10 +127,6 @@ article p::first-letter {
     color: white;
 }
 
-/*Agregar familia de fuentes traida de google fonts*/
-body {
-    font-family: "Poppins", Arial, Helvetica, sans-serif;
-    line-height: 1.6;
-}
+
 
 
