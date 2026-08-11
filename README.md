@@ -16,7 +16,7 @@
   ─────────────────────────────────────────────────────────────────────
 -->
 
-<div align="center">
+<div align="center" markdown="1">
 
 # 📘 Portafolio de Evidencias
 
@@ -72,7 +72,7 @@ Portafolio-C.P.W-2026/
 | :----: | :----------- | :------------------------------------- | :---------------------------------: | :--------------: |
 |  S01   | Git y GitHub | _(escribir aquí con palabras propias)_ | [ver](unidad-01-control-versiones/) | [ver](recursos/) |
 
-<details>
+<details markdown="1">
 <summary><b>Unidad 2 · Etiquetas y atributos HTML</b> (sesiones 2 a 8)</summary>
 
 | Sesión | Tema                           | Qué aprendí                                                   |                    Trabajo                    |                   Captura                    |
@@ -87,14 +87,14 @@ Portafolio-C.P.W-2026/
 
 </details>Sobre main vs master: se recomienda renombrar a main
 
-<details>
+<details markdown="1">
 <summary><b>Unidad 3 · Codificación de hojas de estilo</b> (sesiones 11 a 20)</summary>
 
 | Sesión | Tema                       | Qué aprendí |        Trabajo        |     Captura      |
 | :----: | :------------------------- | :---------- | :-------------------: | :--------------: |
-|  S11   | Introducción a CSS         |             | [ver](unidad-03-css/) | [ver](recursos/) |
-|  S12   | Selectores y pseudo-clases |             | [ver](unidad-03-css/) | [ver](recursos/) |
-|  S13   | Tipografía y color         |             | [ver](unidad-03-css/) | [ver](recursos/) |
+|  S11   | Introducción a CSS         | introduucción a CSS, sintaxis, formas de aplicar estilos y validación de CSS            | [ver](./unidad-03-css/sitio-demo/index.html) | [ver](recursos/S11.intro-css-sintaxis.png) |
+|  S12   | Selectores y pseudo-clases | Selectores, pseudo-clases, pseudo-elementos y introducción a la tipografía            | [ver](unidad-03-css/sitio-demo/articulo.html) | [ver](recursos/S12.Selectores.png) |
+|  S13   | Tipografía y color         |  tipografía avanzada, color y fondos | [ver](unidad-03-css/sitio-demo/index.html) | [ver](recursos/S.13-Tipografia-fondos.png) |
 |  S14   | Modelo de cajas            |             | [ver](unidad-03-css/) | [ver](recursos/) |
 |  S15   | Display y posicionamiento  |             | [ver](unidad-03-css/) | [ver](recursos/) |
 |  S16   | Flexbox                    |             | [ver](unidad-03-css/) | [ver](recursos/) |
@@ -105,7 +105,7 @@ Portafolio-C.P.W-2026/
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>Unidad 4 · Páginas web responsivas</b> (sesiones 23 a 28)</summary>
 
 | Sesión | Tema                            | Qué aprendí |           Trabajo            |     Captura      |
@@ -119,7 +119,7 @@ Portafolio-C.P.W-2026/
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>Unidad 5 · Frameworks y librerías</b> (sesiones 31 a 36)</summary>
 
 | Sesión | Tema                          | Qué aprendí |           Trabajo           |     Captura      |
@@ -161,7 +161,7 @@ imágenes representativas de todo el módulo.)_
   <img src="recursos/ejemplo-escritorio.png" width="600" alt="Sitio personal en vista de escritorio">
 </p>
 
-<div align="center"><i>El sitio personal al cierre de la Unidad 3.</i></div>
+<div align="center" markdown="1"><i>El sitio personal al cierre de la Unidad 3.</i></div>
 
 ### El mismo sitio en dos anchos
 
@@ -205,7 +205,7 @@ _(Escribir al cerrar el módulo, en la sesión 36. Tres preguntas para orientarl
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 **Nombre Completo** · correo@ejemplo.com
 
