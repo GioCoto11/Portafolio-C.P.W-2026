@@ -10,6 +10,11 @@ html{
     padding: 0;
     box-sizing: border-box;
 }/*esta regla elimina los márgenes y el relleno predeterminados de todos los elementos y establece el modelo de caja para incluir el relleno y el borde en el ancho y alto del elemento*/
+
+.contenedor {
+    max-width: 1200px;
+    margin: 0 auto; } 
+
 body {
     font-size: 1rem;
     line-height: 1.6;
@@ -84,10 +89,14 @@ header nav a {
 header ul li {
     list-style-type: none;
 }
+nav li {
+    margin-right: 15px;
+}
 
 header nav li {
     display: inline-block;
 }
+
 /*Aplicar estilos a clases*/
 .destacado {
     background-color: #fff3cd;
@@ -130,6 +139,19 @@ article p::first-letter {
     background-color: #1f4e79;
     color: white;
 }
+
+/*Los 5 valores de position
+static: valor por omision.
+relative: se desplaza desde su propia posición, conserva su propia posición y los elementos vecinos no se mueven.
+absolute: Se ubica respecto al ancestro más cercano.
+fixed: Se ubica respecto a la ventana. No se mueve al desplazarse.
+sticky: Fluye normal hasta llegar a umbral, y entonces se pega.*/
+
+/*Patron para este caso*/
+.figura-destacada {
+
+}
+
 
 
 
