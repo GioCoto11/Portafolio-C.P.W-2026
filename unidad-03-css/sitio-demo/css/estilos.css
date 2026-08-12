@@ -31,11 +31,10 @@ body {
 h1{
     color:#aad6fe;
     text-align: center;
-}
-h1{
     font-size: 2.5rem;
     font-weight: 700;
 }
+
 h2{
     font-size: 2rem;
     font-weight: 700;
@@ -44,6 +43,11 @@ h3{
     font-size: 1.5em;
     font-weight: 600;
 }
+h2, h3{
+    color: #1f4e79;
+    margin-bottom: 12px;
+}
+
 p{
     font-size: 1rem;
     font-weight: 400;
@@ -66,11 +70,6 @@ footer{
     border-radius: 8px;
 }*/
 
-h2, h3{
-    color: #1f4e79;
-    margin-bottom: 12px;
-}
-
 main p{
     max-width: 70ch;
 }/*ch es el ancho del caracter cero de la fuente en uso, el valor de 70 marca el rango de lectura cómoda por linea o renglón. más larga, la vista se pierde al cambio de linea*/
@@ -83,6 +82,7 @@ main a{
 blockquote{
     font-style: italic;
     color: #555;
+    border-left: 4px solid#1f4e79;
 }
 
 /*Transformación y espacio*/
@@ -230,6 +230,13 @@ caption{
     padding: 8px;
     font-weight: 700;
     margin-bottom: 24px;
+}
+
+/*Las fuguras de galeria.html*/
+figure {
+    border: 1px solid #dddddd;
+    border-radius: 6px;
+    padding: 12px;
 }
 
 /*Los 5 valores de position
