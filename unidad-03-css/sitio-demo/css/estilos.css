@@ -24,6 +24,7 @@ body {
     font-family: Arial, sans-serif;
     color: #333;
     background-color: #fcfcfc;
+    padding-top: 180px;
 } /*esta regla define la fuente y el color del texto en el cuerpo del documento*/
 
 
@@ -112,13 +113,22 @@ header nav a {
 }
 
 /*Aplicar estilos a identificadores  o IDs*/
-#inicio{
+#inicio {
+    position: fixed; /*fija con respecto a la ventana. cabecera queda fija arriba*/
+    top: 0;
+    left: 0;
+    width: 100%;
     background-image: url(../Recursos/fondo1.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     padding: 30px;
 }
+/*#inicio {
+    position: sticky; /*Fluye normal y se pega al llegar arriba o límite del su contenedor
+    top: 0;
+}*/
+
 
 /*Aplicar estilos a identificadores  o IDs*/
 nav a{
