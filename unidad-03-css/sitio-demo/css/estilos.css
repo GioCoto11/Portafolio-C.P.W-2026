@@ -86,14 +86,6 @@ blockquote{
 }
 
 /*Transformación y espacio*/
-
-header nav a {
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    font-size: 0.9rem;
-    text-decoration: none;
-    padding: 10px 15px;
-}
 header nav ul{
     list-style-type: none;
 }/*Quita las viñetas y el subrayado*/
@@ -102,11 +94,19 @@ nav li{
     margin-right: 15px;
 }
 
+header nav a {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 0.9rem;
+    text-decoration: none;
+    padding: 10px 15px;
+}
+
 header nav li{
     display: inline-block;
-    /*visibility: hidden;oculta la linea de menu*/
 }/*Coloca las opciones de menú en línea, uno al lado del otro*/
-
+    /*visibility: hidden; oculta la linea de menu, pero sigue existiendo
+    display: none; oculta la linea de menú y libera el espacio*/
 
 /*Aplicar estilos a clases*/
 .destacado{
@@ -231,6 +231,19 @@ caption{
     font-weight: 700;
     margin-bottom: 24px;
 }
+/* El <caption> "Horario del módulo CSTI12002, primera semana" */
+
+th, td {
+  padding: 10px;
+  border: 1px solid #DDDDDD;
+  text-align: left;
+}
+
+thead th {
+  background-color: #1F4E79;
+  color: white;
+}
+/* ← Las cuatro celdas de encabezado: Semana · Día · Modalidad · Contenido */
 
 /*Las fuguras de galeria.html*/
 figure {
