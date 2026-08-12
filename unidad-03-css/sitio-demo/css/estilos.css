@@ -11,9 +11,14 @@ html{
     box-sizing: border-box;
 }/*esta regla elimina los márgenes y el relleno predeterminados de todos los elementos y establece el modelo de caja para incluir el relleno y el borde en el ancho y alto del elemento*/
 
-.contenedor {
+
+.contenedor-principal {
     max-width: 1200px;
-    margin: 0 auto; } 
+    margin: 0 auto;
+    /*0: aplica a la parte vertical y horizontal
+    el auto: reparte el espacio sobrante por igual a ambos lados
+    lo centra en un elemento con ancho limitado*/
+}
 
 body {
     font-size: 1rem;
@@ -23,13 +28,7 @@ body {
     background-color: #fcfcfc;
 
 }/*esta regla define la fuente y el color del texto en el cuerpo del documento*/
-.contenedor {
-    max-width: 1200px;
-    margin: 0 auto;
-    /*0: aplica a la parte vertical y horizontal
-    el auto: reparte el espacio sobrante por igual a ambos lados
-    lo centra en un elemento con ancho limitado*/
-}
+
 h1{
     color: #fff;
     text-align: center;
