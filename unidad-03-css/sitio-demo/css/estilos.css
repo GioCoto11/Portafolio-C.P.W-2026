@@ -1,57 +1,51 @@
 /*css/estilos.css*/
 /* Reset básico*/
-/*100% del tamaño que el ususrio configuró
-Por omisión son 16px, */
+/*El 100% del tamaño que el usuario configuro
+por omisiòn son 16px, */
 html{
     font-size: 100%;
 }
+
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}/*esta regla elimina los márgenes y el relleno predeterminados de todos los elementos y establece el modelo de caja para incluir el relleno y el borde en el ancho y alto del elemento*/
-
-
-.contenedor-principal {
-    max-width: 1200px;
-    margin: 0 auto;
-    /*0: aplica a la parte vertical y horizontal
-    el auto: reparte el espacio sobrante por igual a ambos lados
-    lo centra en un elemento con ancho limitado*/
-}
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}/*Esta regla elimina los margenes y el relleno predeterminados de todos los elementos y establece el modelo de caja para incluir el relleno y el borde en el ancho y alto del elemento*/
 
 body {
     font-size: 1rem;
     line-height: 1.6;
-    font-family: 'Poppins', Arial, sans-serif; /*Agregar familia de fuentes 'Poppins' traida de google fonts*/
+    font-family: Arial, sans-serif;
     color: #333;
     background-color: #fcfcfc;
-
-}/*esta regla define la fuente y el color del texto en el cuerpo del documento*/
+} /*esta regla define la fuente y el color del texto en el cuerpo del documento*/
+.contenedor{
+    max-width: 1200px;
+    margin: 0 auto;
+}/*Aplica a la parte vertical y horizontal el auto: reparte el espacio sobrante por el igual a ambos lado,lo centra en un elemento con ancho limitado de max-width: 1000px*/
 
 h1{
-    color: #fff;
+    color:#aad6fe;
     text-align: center;
 }
-h1 {
+h1{
     font-size: 2.5rem;
     font-weight: 700;
 }
-h2 {
+h2{
     font-size: 2rem;
     font-weight: 700;
 }
-h3 {
-    font-size: 1.5rem;
+h3{
+    font-size: 1.5em;
     font-weight: 600;
 }
-p {
+p{
     font-size: 1rem;
     font-weight: 400;
     margin-bottom: 16px;
 }
-
-header {
+header{
     background-color: #1f4e79;
     color: white;
 }
@@ -60,33 +54,32 @@ footer{
     padding: 20px;
     margin-top: 32px;
 }
-.portada-texto {
-    background-color: rgba(0, 0, 40, 0.35); 
+.portada-texto{
+    background-color: rgba(0, 0, 0, 0.35);
     padding: 24px;
     border-radius: 8px;
 }
 
-
-h2, h3 {
+h2, h3{
     color: #1f4e79;
     margin-bottom: 12px;
 }
 
-main p {
+main p{
     max-width: 70ch;
-}/*ch es el ancho del carater cero de la fuenete en uso. el valor 70 marca el rango
-de lectura cómoda por línea o renglón. más larga, la vista se pierde al cambia de línea*/
-main a {
+}/*ch es el ancho del caracter cero de la fuente en uso, el valor de 70 marca el rango de lectura cómoda por linea o renglón. más larga, la vista se pierde al cambio de linea*/
+
+main a{
     text-decoration: none;
     border-bottom: 1px solid #1f4e79;
 }
 
-blockquote p {
+blockquote{
     font-style: italic;
     color: #555;
 }
 
-/* Transformacion y espacio*/
+/*Transformación y espacio*/
 
 header nav a {
     text-transform: uppercase;
@@ -95,69 +88,149 @@ header nav a {
     text-decoration: none;
     padding: 10px 15px;
 }
-header nav ul {
+header nav ul{
     list-style-type: none;
-}
-nav li {
+}/*Quita las viñetas y el subrayado*/
+
+nav li{
     margin-right: 15px;
 }
 
-header nav li {
+header nav li{
     display: inline-block;
-}
+    /*visibility: hidden;oculta la linea de menu*/
+}/*Coloca las opciones de menú en línea, uno al lado del otro*/
+
+
 
 /*Aplicar estilos a clases*/
-.destacado {
+.destacado{
     background-color: #fff3cd;
-    padding: 10px 20px; /*aplica com las manillas del reloj: ariba - derecha - abajo - izquierda*/
+    padding: 10px 20px; /*aplica como las manesillas del reloj: arriba-derecha-abajo-izquierda*/
 
 }
 
-/*Aplicar estilos a identificadores o IDs*/
-#inicio {
-    background-image: url(../recursos/fondo1.avif);
+/*Aplicar estilos a identificadores  o IDs*/
+#inicio{
+    background-image: url(../Recursos/fondo1.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     padding: 30px;
 }
 
-/*estilos solo a enlces dentro del nav*/
-nav a {
-    color: #fff;
+/*Aplicar estilos a identificadores  o IDs*/
+nav a{
+    color: #ffff;
     margin-right: 15px;
     transition: color 0.3s; /*cambio suave */
 }
-/*Pseudo-clase :hober*/
+
+/*Pseudo-clase :hover*/
 nav a:hover {
     color: #f8cbad; /*al pasar el cursor*/
 }
 
 /*Pseudo-clase :nth-child: filas cebra en la tabla*/
-tbody tr:nth-child(even){
-    background-color: #e0d8d8;
+tbody tr :nth-child(even){
+    background-color: #d7c5c5;
 }
-/*Pseudo-elemento ::first-letter y ::selection*/
-article p::first-letter {
+
+/*Pseudo-elemento ::firts-letter y ::selection*/
+article p::first-letter{
     font-size: 32px;
     font-weight: bold;
     color: #c55a11;
 }
 
-::selection {
+::selection{
     background-color: #1f4e79;
     color: white;
 }
 
+/*Agregar familia de fuentes traida de google fonts*/
+body{
+    font-family: "Poppins",Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+}
+aside{
+    padding: 20px;
+    border: 2px solid #c55a11;
+    border-radius: 8px;
+    
+}/*En este caso el padding aplica a los 4 lados a la vez,padding: 10px 20px aplica vertical y horizontal
+padding: 10px 20px 15px 5px aplica a los 4 lados valores distintos,en sentido de las manillas del reloj*/
+
+/*Aplicar lado por lado
+padding-top 10px aplica arriba
+padding-right 10px aplica derecha
+padding-bottom 10px aplica abajo
+padding-left 10px aplica izquierda*/
+
+/*Aplicamos ala tabla horario.html*/
+th, td {
+    padding: 10px;
+    border: 1px solid #dddddd;
+    text-align: left;
+
+}
+
+thead th{
+    background-color: #1f4e79;
+    color: white;
+}/*Trabaja las 4 celdas del encabezados de la tabla */
+
+tfoot td{
+    padding: 12px;
+    font-style: italic;
+    background-color: #f5f7fa;
+}
+fieldset{
+    padding: 16px
+}
+
+section{
+    margin-bottom: 32px;
+}
+
+/*Listas de horario.html*/
+main ul, main ol{
+    padding-left: 24px;
+    margin-bottom: 16px;
+}
+
+main li{
+    margin-bottom: 6px;
+}
+
+/*La lista descriptiva*/
+#glosario dt{
+    font-weight: 700;
+    margin-top: 12px;
+}
+
+#glosario dd{
+    margin-left: 20px;
+    margin-bottom: 8px;
+}/*La sangria del <dd> es lo que hace visible la relación entre el termino y su descripción*/
+
+/*La tabla de calendario*/
+table{
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 24px;
+}
+
+caption{
+    padding: 8px;
+    font-weight: 700;
+    margin-bottom: 24px;
+}
+
 /*Los 5 valores de position
-static: valor por omision.
-relative: se desplaza desde su propia posición, conserva su propia posición y los elementos vecinos no se mueven.
-absolute: Se ubica respecto al ancestro más cercano.
-fixed: Se ubica respecto a la ventana. No se mueve al desplazarse.
-sticky: Fluye normal hasta llegar a umbral, y entonces se pega.*/
-
-/*Patron para este caso*/
-
-
-
-
+static:valor por omision
+relative:se desplaza de su propia posición
+conserva su propia posición y los elementos vecinos no se mueven.
+absolute:Se ubica respecto al ancestro más cercano
+fixed: Se ubica respecto a la ventana no se mueve al desplazarse.
+sticky: Fluye normal asta llegar a un umbral,ej-(stroll arriba) y entonces se pega.*/
