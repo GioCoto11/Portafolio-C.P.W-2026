@@ -15,7 +15,6 @@ html{
 .contenedor{
     max-width: 1200px;
     margin: 0 auto;
-    border: 2px solid #c55a11; 
     padding: 25px;
 }/*Aplica a la parte vertical y horizontal el auto: reparte el espacio sobrante por el igual a ambos lado,lo centra en un elemento con ancho limitado de max-width: 1000px*/
 
