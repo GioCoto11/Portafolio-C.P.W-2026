@@ -24,6 +24,7 @@ body {
     font-family: Arial, sans-serif;
     color: #333;
     background-color: #fcfcfc;
+    padding-top: 180px;
 } /*esta regla define la fuente y el color del texto en el cuerpo del documento*/
 
 
@@ -112,13 +113,23 @@ header nav a {
 }
 
 /*Aplicar estilos a identificadores  o IDs*/
-#inicio{
+#inicio {
+    position: fixed; /*fija con respecto a la ventana. cabecera queda fija arriba*/
+    top: 0;
+    left: 0;
+    width: 100%;
     background-image: url(../Recursos/fondo1.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     padding: 30px;
+    z-index: 100; /*cuanto mayor es numero m´al frente va a  estar*/
 }
+/*#inicio {
+    position: sticky; /*Fluye normal y se pega al llegar arriba o límite del su contenedor
+    top: 0;
+}*/
+
 
 /*Aplicar estilos a identificadores  o IDs*/
 nav a{
@@ -255,3 +266,25 @@ conserva su propia posición y los elementos vecinos no se mueven.
 absolute:Se ubica respecto al ancestro más cercano
 fixed: Se ubica respecto a la ventana no se mueve al desplazarse.
 sticky: Fluye normal asta llegar a un umbral,ej-(stroll arriba) y entonces se pega.*/
+
+.figura-destacada {
+    position: relative;/*posiona como padre y este no se mueve. Es referencia de hijos absolutos*/
+}
+
+.etiqueta {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background-color: #c55a11;
+    color: white;
+    border-radius: 4px;
+    font-size: 0.875rem;
+    z-index: 10;
+}
+/*z-index SOLO FUNCIONA en elementos con positions declarado
+si el es static no funciona.
+escala de valores de z-index
+10 para eleentos posicionados dentro del contenido.
+100 la cabecera fija.
+1000 ventanas emergenetes y capas superpuestas
+9999 no hace falta usarlo casi nunca porque no deja margen a otro valor por encima*/
