@@ -24,7 +24,7 @@ body {
     font-family: Arial, sans-serif;
     color: #333;
     background-color: #fcfcfc;
-    padding-top: 180px;
+    padding-top: 100px;
 } /*esta regla define la fuente y el color del texto en el cuerpo del documento*/
 
 
@@ -113,6 +113,10 @@ header nav a {
     padding: 10px 15px;
 }
 
+header nav {
+    align-self: center; /*anula aling-items para el elemento específico*/
+}
+
 /*Aplicar estilos a clases*/
 .destacado{
     background-color: #fff3cd;
@@ -124,7 +128,10 @@ header nav a {
 #inicio {
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    /*align-items: flex-start; /*acomada arriba*/
+    /*align-items: center; al centro*/
+    /*align-items: flex-end; acomada abajo*/
+    align-items: baseline; /*alinea por la linea base del*/
     position: fixed; /*fija con respecto a la ventana. cabecera queda fija arriba*/
     top: 0;
     left: 0;
@@ -299,3 +306,10 @@ escala de valores de z-index
 100 la cabecera fija.
 1000 ventanas emergenetes y capas superpuestas
 9999 no hace falta usarlo casi nunca porque no deja margen a otro valor por encima*/
+.centrado {
+    display: flex;
+    justify-content: center; /*centrado horizontal*/
+    align-items: center;  /*centrado vestical*/
+}
+
+
