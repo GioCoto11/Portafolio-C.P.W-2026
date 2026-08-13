@@ -89,7 +89,14 @@ blockquote{
 header nav ul{
     display: flex; /*activa flexbox y coloca en fila horizontal los elementos por defecto*/
     list-style-type: none;
-}/*Quita las viñetas y el subrayado*/
+    gap: 15px; /*Separación uniforme entre elementos*/
+    /* justify-content: flex-start; /*coloca elementos al inicio de fila
+    justify-content: flex-end;  /*coloca elementos al final de fila
+    justify-content: center;  /*coloca elementos en el centro de fila
+    justify-content: space-between; /*coloca elementos extremos pegados
+    justify-content: space-around;  /*espacio al rededor de cada uno*/
+    justify-content: space-evenly; /*coloca todos los espacios iguales*/
+ }/*Quita las viñetas y el subrayado*/
 
 /*header nav li{
     /*display: inline-block;
@@ -115,6 +122,9 @@ header nav a {
 
 /*Aplicar estilos a identificadores  o IDs*/
 #inicio {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     position: fixed; /*fija con respecto a la ventana. cabecera queda fija arriba*/
     top: 0;
     left: 0;
@@ -123,7 +133,7 @@ header nav a {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    padding: 30px;
+    padding: 12px 20px;
     z-index: 100; /*cuanto mayor es numero m´al frente va a  estar*/
 }
 /*#inicio {
