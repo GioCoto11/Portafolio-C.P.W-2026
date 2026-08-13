@@ -87,11 +87,12 @@ blockquote{
 
 /*Transformación y espacio*/
 header nav ul{
+    display: flex; /*activa flexbox y coloca en fila horizontal los elementos por defecto*/
     list-style-type: none;
 }/*Quita las viñetas y el subrayado*/
 
-nav li{
-    display: inline-block;
+/*header nav li{
+    /*display: inline-block;
     margin-right: 15px;
 }/*Coloca las opciones de menú en línea, uno al lado del otro*/
     /*visibility: hidden; oculta la linea de menu, pero sigue existiendo
