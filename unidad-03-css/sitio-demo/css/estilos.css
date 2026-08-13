@@ -59,7 +59,12 @@ header{
     padding: 24px;
     border-radius: 8px;
 }
-footer{
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 15px;
     background-color: #dce6f1;
     padding: 20px;
     margin-top: 32px;
