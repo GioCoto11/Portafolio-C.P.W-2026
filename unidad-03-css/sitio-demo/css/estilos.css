@@ -377,3 +377,11 @@ escala de valores de z-index
    #contenido > aside {grid-area: lateral;}
    grid-template-areas: 'indice principa';
 }
+
+/*Que las imagens no se desformen*/
+.galeria-grid img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover; /*Recorta por el centro en vez de deformar*/
+    border-radius: 6px;
+}
