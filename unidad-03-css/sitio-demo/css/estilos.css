@@ -514,6 +514,12 @@ form small {
     /*0: desplazamiento horizontal. 4px:desplazamnmiento vertical. 12px:es el desenfoque, cuanto mator, más difusa. rgba:color con transparencia*/
 }
 
+/*Tarjeta interactiva*/
+.tarjeta figure:hover {
+    transform: translateY(-10px); /*Valor negativo va hacia arriba*/
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+
+}
 
 
 
