@@ -150,7 +150,7 @@ Proyecto propio construido de forma autónoma.
 |  S16   | Flexbox                    |  Trabajamos con propiedades de flexbox para posicionar cajas y sus elementos           | [ver](unidad-03-css/sitio-demo/galeria.html) | [ver](recursos/S.16-Flexbox.png) |
 |  S17   | CSS Grid                   |  Trabajamos grid template           | [ver](unidad-03-css/sitio-demo/galeria.html) | [ver](recursos/S17-Grid.png) |
 |  S18   | Componentes estilizados    |  Agrego tarjetascon interactividad, estilizamos formularios y tablas            | [ver](unidad-03-css/sitio-demo/galeria.html) | [ver](recursos/S18-Tajetas-tablas-formularios.png) |
-|  S19   | Animaciones y filtros      |             | [ver](unidad-03-css/) | [ver](recursos/) |
+|  S19   | Animaciones y filtros      |             | [ver](unidad-03-css/) | [ver](recursos/S-19-Animaciones.png) |
 |  S20   | SCSS y repaso              |             | [ver](unidad-03-css/) | [ver](recursos/) |
 
 </details>
