@@ -549,5 +549,18 @@ form small {
     animation: aparecer 0.6s ease-out;
 }
 
+@keyframes pulso {
+    0%, 100% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.08);
+    }
+}
+
+.etiqueta {
+    animation: pulso 2s ease-out infinite;
+}
+
 
 
