@@ -562,5 +562,18 @@ form small {
     animation: pulso 2s ease-out infinite;
 }
 
+/*Aplicacion de filtros*/
+.galeria-grid img:hover {
+    filter: grayscale(100%);
+    filter: blur(2px);
+    filter: brightness(1.2);
+    filter: contrast(1.5);
+    filter: saturate(2);
+    filter: sepia(60%);
+    filter: invert(90%);
+    filter: opacity(50%);
+    filter: grayscale(100%) brightness(1.1);
+}
+
 
 
