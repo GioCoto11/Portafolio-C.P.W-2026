@@ -33,5 +33,21 @@
 }
 
 /*Reset y base*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+    font-family: var(--fuente-texto);
+    line-height: 1.6;
+    color: var(--tinta);
+    background-color: var(--papel);
+}
 
