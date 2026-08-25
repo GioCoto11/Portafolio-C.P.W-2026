@@ -286,7 +286,13 @@ gap: var(--esp-sm);
     margin-bottom: 0;
 }
 
-
+/*PIE*/
+#pie {
+    background-color: var(--marca);
+    color: var(--blanco);
+    padding: var(--esp-xl) var(--esp-md) var(--esp-md);
+    margin-top: var(--esp-xl);
+}
 
 
 
