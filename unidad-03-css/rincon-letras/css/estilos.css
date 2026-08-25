@@ -4,11 +4,34 @@
 --suave: #6b6259;
 --marca: #5b3a29;
 --acento:      #A6572F;
-  --acento-osc:  #7F4224;
-  --papel:       #FBF8F3;
-  --papel-alt:   #F1EAE0;
-  --linea:       #DDD2C4;
-  --blanco:      #FFFFFF;
-  --error:       #B23A2F;
-  --exito:       #2E7D32;
+--acento-osc:  #7F4224;
+--papel:       #FBF8F3;
+--papel-alt:   #F1EAE0;
+--linea:       #DDD2C4;
+--blanco:      #FFFFFF;
+--error:       #B23A2F;
+--exito:       #2E7D32;
+
+/*tipografías*/
+--fuente-titulo: Georgia, 'Times New Roman', serif;
+--fuente-texto: 'Segoe UI', Arial, san-serif;
+
+/*escalas y espacios*/
+  --esp-xs: 0.8rem;
+  --esp-sm: 1.6rem;
+  --esp-md: 2.4rem;
+  --esp-lg: 4.0rem;
+  --esp-xl: 7.2rem;
+
+  --radio:   0.6rem;
+  --sombra-1: 0 0.2rem 0.6rem rgba(0,0,0,.06);
+  --sombra-2: 0 0.4rem 1.2rem rgba(0,0,0,.10);
+  --sombra-3: 0 0.8rem 2.0rem rgba(0,0,0,.16);
+  --transicion: 0.25s ease;
+  --ancho-max: 114rem;
+
 }
+
+/*Reset y base*/
+
+
