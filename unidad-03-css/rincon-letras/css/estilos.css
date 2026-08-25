@@ -187,3 +187,15 @@ gap: var(--esp-sm);
     opacity: 0.94;
 }
 
+.rejilla-servicios {
+    display: flex;
+    gap: var(--esp-md);
+    flex-wrap: wrap;
+}
+
+.tarjeta {
+    flex: 1 1 28rem;
+}
+
+
+
