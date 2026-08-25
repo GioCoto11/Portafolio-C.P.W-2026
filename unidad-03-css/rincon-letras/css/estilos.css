@@ -266,6 +266,25 @@ gap: var(--esp-sm);
     text-align: right;
     font-style: normal; 
 }
+/*CONTENIDO SECUNDARIO- ASIDE*/
+#aviso,
+.panel-aviso {
+    background-color: var(--papel-alt);
+    border-left: 0.4rem solid var(--acento);
+    border-radius: 0 var(--radio) var(--radio) 0;
+    padding: var(--esp-md);
+    margin: var(--esp-lg) auto;
+    max-width: var(--ancho-max);
+    box-shadow: var(--sombra-1);
+}
+#aviso h2 {
+    font-size: 2.2rem;
+    margin-bottom: var(--esp-xs);
+}
+
+#aviso p {
+    margin-bottom: 0;
+}
 
 
 
