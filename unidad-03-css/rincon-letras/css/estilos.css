@@ -82,4 +82,12 @@ img {
     margin-right: auto; 
     padding: var(--esp-lg) var(--esp-md);
 }
+#portada,
+#servicios,
+#historia,
+#existencias,
+#categorias,
+#pedido {
+    margin-bottom: var(--esp-xl);
+}
 
