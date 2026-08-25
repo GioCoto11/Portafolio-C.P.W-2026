@@ -145,5 +145,20 @@ img {
     transition: background-color var(--transicion), color var(--transicion);
 }
 
+/*pseudoclace*/
+.menu-principal a:hover {
+    background-color: var(--papel-alt);
+    color: var(--marca);
+}
+
+.menu-principal a:focus {
+    outline: 0.2rem solid var(--acento);
+    outline-offset: 0.2rem;
+}
+
+.menu-principal .enlace-activo {
+    color: var(--acento);
+    background-color: var(--papel-alt);
+}
 
 
