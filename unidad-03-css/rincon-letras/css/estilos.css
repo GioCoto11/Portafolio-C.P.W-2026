@@ -1,0 +1,14 @@
+:root {
+/*paleta de colores 3 colores*/
+--tinta: #1f1b16;
+--suave: #6b6259;
+--marca: #5b3a29;
+--acento:      #A6572F;
+  --acento-osc:  #7F4224;
+  --papel:       #FBF8F3;
+  --papel-alt:   #F1EAE0;
+  --linea:       #DDD2C4;
+  --blanco:      #FFFFFF;
+  --error:       #B23A2F;
+  --exito:       #2E7D32;
+}
