@@ -160,7 +160,7 @@ Proyecto propio construido de forma autónoma.
 
 | Sesión | Tema                            | Qué aprendí |           Trabajo            |     Captura      |
 | :----: | :------------------------------ | :---------- | :--------------------------: | :--------------: |
-|  S23   | Viewport y anchos fluidos       |  Diferenciación con la etiqueta viewport y puntos de quiebre           | [ver](unidad-04-responsivo/luz-clara/index.html) | [ver](recursos/Doc1.docx) |
+|  S23   | Viewport y anchos fluidos       |  Diferenciación con la etiqueta viewport y puntos de quiebre           | [ver](unidad-04-responsivo/luz-clara/index.html) | [ver](recursos/s23-24-Responsive.pdf) |
 |  S24   | Media queries y mobile-first    |             | [ver](unidad-04-responsivo/) | [ver](recursos/) |
 |  S25   | Menú responsivo e impresión     |             | [ver](unidad-04-responsivo/) | [ver](recursos/) |
 |  S26   | Imágenes y video adaptativos    |             | [ver](unidad-04-responsivo/) | [ver](recursos/) |
