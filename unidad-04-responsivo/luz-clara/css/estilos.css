@@ -2171,4 +2171,47 @@ Aplicar reglas según si el dispositivo esta en vertical u horizontal*/
 @media (prefers-reduced-motion) preferencia de movimeinto
 @media (prefers-color-scheme: dark) tema oscuro
 */
+@media print {
+  /*QUITAR LO QUE NO SIRVE EN EL PAPEL*/
+  .cabecera,
+  .menu-boton,
+  .pie,
+  .boton,
+  .volver-arriba,
+  .fila-etiquetas {
+    display: none;
+  }
+
+  /*Ahorrar tinta*/
+  body {
+    background: white;
+    color: black;
+    font-size: 11pt;
+  }
+.seccion,
+.seccion-alterna {
+  background: none;
+  padding: 0;
+  max-width: none;
+}
+
+.tarjeta,
+.ficha,
+figure,
+.tabla {
+  page-break-inside: avoid;
+}
+
+h1, h2, h3 {
+  page-break-after: avoid;
+}
+
+/*mostrar los enlaces*/
+main a[href^="http"]::after {
+  content: " (" attr(href) ")";
+  font-size: 9pt;
+  color: #555;
+}
+}
+
 
