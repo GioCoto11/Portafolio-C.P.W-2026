@@ -2139,3 +2139,12 @@ base              hasta 767px             telefono
     }
   }
 
+@media (min-width: 768px) { /*Aquí si corresponde el display none porque no deb existir en pantallas grandes*/
+  .menu-boton {
+    display: none;
+  }
+  .menu {
+    display: flex;
+    flex-direction: row;
+  }
+}
