@@ -171,6 +171,11 @@ tbody tr :nth-child(even){
     background-color: #d7c5c5;
 }
 
+tbody tr:hover {
+    background-color: #e3eef9;
+} /*La novedad de este paso es resaltar la fila de bajo el cursor
+  No es decoración, es ayuda para no perderse en la fila*/
+
 /*Pseudo-elemento ::firts-letter y ::selection*/
 article p::first-letter{
     font-size: 32px;
@@ -219,6 +224,7 @@ tfoot td{
     padding: 12px;
     font-style: italic;
     background-color: #f5f7fa;
+    border-top: 2px solid #1F4E79;
 }
 fieldset{
     padding: 16px;
@@ -268,6 +274,8 @@ caption{
     padding: 8px;
     font-weight: 700;
     margin-bottom: 24px;
+    text-align: left;
+    color: #6b7280;
 }
 /* El <caption> "Horario del módulo CSTI12002, primera semana" */
 
@@ -280,7 +288,11 @@ th, td {
 thead th {
   background-color: #1F4E79;
   color: white;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
 }
+
 /* ← Las cuatro celdas de encabezado: Semana · Día · Modalidad · Contenido */
 
 /*Las fuguras de galeria.html*/
