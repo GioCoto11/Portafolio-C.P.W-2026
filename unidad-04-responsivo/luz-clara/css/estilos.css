@@ -867,6 +867,7 @@ img {
   position: fixed;
   top: 0;
   left: 0;
+  width: 28rem;/*faltó*/
   height: 100vh;
   background-color: var(--color-blanco);
   box-shadow: var(--sombra-3);
@@ -888,7 +889,26 @@ img {
   /*vuelve a su posición entra deslizandose desd la izquierda*/
 }
 
-/*La capa oscura de fondo*/
+/*La capa oscura de fondo-Agregar .panel-fondo*/
+.panel-fondo {
+  position: fixed;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 150;
+  /* Por debajo del panel (200) y por encima de la cabecera (100) */
+
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity .3s ease, visibility .3s ease;
+  /* No se usa display: none porque no se puede animar */
+}
+
+.panel-control:checked ~ .panel-fondo {
+  opacity: 1;
+  visibility: visible;
+  cursor: pointer;
+}
+
 .panel-control:checked ~ .panel-lateral::before {
   content: '';
   position: fixed;
