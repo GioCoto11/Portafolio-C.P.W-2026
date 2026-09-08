@@ -162,10 +162,10 @@ Proyecto propio construido de forma autónoma.
 | :----: | :------------------------------ | :---------- | :--------------------------: | :--------------: |
 |  S23   | Viewport y anchos fluidos       |  Diferenciación con la etiqueta viewport y puntos de quiebre           | [ver](unidad-04-responsivo/luz-clara/index.html) | [ver](recursos/s23-24-Responsive.pdf) |
 |  S24   | Media queries y mobile-first    |Técnica movil first | [ver](unidad-04-responsivo/luz-clara/index.html) | [ver](recursos/S24-mediaQueries-MovilFirst.png) |
-|  S25   | Menú responsivo e impresión     | Menú hamburgueza i media print| [ver](unidad-04-responsivo/luz-clara/index.html) | [ver](recursos/) |
-|  S26   | Imágenes y video adaptativos    |             | [ver](unidad-04-responsivo/) | [ver](recursos/) |
-|  S27   | Patrones de diseño adaptativo I |             | [ver](unidad-04-responsivo/) | [ver](recursos/) |
-|  S28   | Patrones II y repaso            |             | [ver](unidad-04-responsivo/) | [ver](recursos/) |
+|  S25   | Menú responsivo e impresión     | Menú hamburgueza i media print| [ver](unidad-04-responsivo/luz-clara/index.html) | [ver](recursos/S25-media%20print.png) |
+|  S26   | Imágenes y video adaptativos    |Picture y el source  para imagenes adaptadas segun e ltamaño | [ver](unidad-04-responsivo/luz-clara/galeria.html) | [ver](recursos/s25-picture.png) |
+|  S27   | Patrones de diseño adaptativo I | 5 patrones de diseño adaptativo| [ver](unidad-04-responsivo/luz-clara/index.html) | [ver](recursos/s27-patrones1.png) |
+|  S28   | Patrones II y repaso            |  Off canvas patrón de diseño| [ver](unidad-04-responsivo/luz-clara/galeria.html) | [ver](recursos/s27-patrones.png) |
 
 </details>
 
